@@ -4,9 +4,12 @@ A minimum viable interop with the Mastodon ecosystem
 
 ## todo
 
-  - [ ] Define profiles
-  - [ ] Define posts
-  - [ ] ActivityPub ()
+  - [ ] ActivityPub (https://docs.joinmastodon.org/spec/activitypub/)
+    - [ ] Statuses
+    - [ ] Profiles
+    - [ ] HTML sanitization
+    - [ ] JSON-LD Namespacing
+    - [ ] Extensions
   - [ ] WebFinger (https://docs.joinmastodon.org/spec/webfinger/)
     - [ ] Standard Spec: https://tools.ietf.org/html/rfc7033
     - [ ] Account Spec: https://tools.ietf.org/html/rfc7565
@@ -28,6 +31,6 @@ A minimum viable interop with the Mastodon ecosystem
     - [ ] Mention (mention)
     - [ ] Hashtag (hashtag)
   - [ ] OAuth (https://docs.joinmastodon.org/spec/oauth/)
-  - [ ] Bearcaps ()
+  - [ ] Bearcaps (https://docs.joinmastodon.org/spec/bearcaps/)
     - [ ] Parse bearcaps
-    - [ ] 
+    - [ ] Generate bearcaps
